@@ -3,6 +3,9 @@
 /.cache/
 /.vscode/
 *.pyc
+.venv/
+venv/
+__pycache__/
 .sdk
 .stgit-*
 .git-submodule-status
@@ -18,5 +21,6 @@ GTAGS
 *.ast_raw
 *.depend_raw
 *.swp
+*.swo
 *.patch
 *.gcov
